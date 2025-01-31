@@ -1,0 +1,9 @@
+venv
+venv*
+.venv 
+.venv*
+data/
+data_ex1/
+Files/
+__pycache__
+.ipynb_checkpoints/
